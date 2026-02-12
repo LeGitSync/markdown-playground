@@ -57,8 +57,3 @@ Colibri offers different tiers depending on repository type:
 
 For general inquiries, support, or feedback, you can email: `hello@colibri.com` 
 
----
-
-If you want, I can also generate a **visual diagram** or **feature-comparison table** (e.g., Colibri vs other Markdown editors).
-
-[1]: https://www.get-colibri.com/ "Create Next App"
