@@ -1,10 +1,10 @@
-| Feature     | Example                           | Notes                            |
-|-------------|-----------------------------------|----------------------------------|
-| Bold Text   | **Important**                     | Uses `**bold**` syntax           |
-| Italic Text | *Emphasis*                        | Uses *italic* synt  
+| Feature     | Example                           | Notes                              |
+|-------------|-----------------------------------|------------------------------------|
+| Bold Text   | **Important**                     | Uses `**bold**` syntax             |
+| Italic Text | *Emphasis*                        | Uses `*italic*` synt  
   
   
   
 ax |
-| Inline Code | `const value = 42;`               | Code formatting inside a cell    |
-| Link        | [Legit](https://legitcontrol.com) | Standard Markdown link           |
+| Inline Code | `const value = 42;`               | Code formatting inside a cell      |
+| Link        | [Legit](https://legitcontrol.com) | Standard Markdown link             |
